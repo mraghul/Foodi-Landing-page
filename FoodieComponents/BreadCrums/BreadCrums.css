@@ -1,0 +1,13 @@
+.breadCrum {display: flex;align-items: center;padding: 20px 30px;}
+.breadCrum span{
+    font-size: 12px;
+    color: #595858;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.breadCrum img{
+    width: 12px;
+    transform: rotate(-85deg);
+}

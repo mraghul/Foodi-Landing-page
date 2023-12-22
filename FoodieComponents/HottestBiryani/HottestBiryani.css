@@ -1,0 +1,46 @@
+.hottestBiryani-container{
+    background-color: #f8981d;
+    padding: 0px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0px 0px;
+    height: 660px;
+}
+.hottestBiryani-rightSide{width: 650px;}
+.hottestBiryani-leftSide h1{
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+    line-height: 90px;
+    margin-bottom: 15px;
+    
+}
+.hottestBiryani-leftSide span{
+    color: #282932;
+}
+.hottestBiryani-leftSide p{
+    font-size: 19px;
+    color: #282932;
+    font-weight: 500;
+    line-height: 35px;
+    margin-bottom: 35px;
+    
+}
+.btn-secondary{
+    padding: 14px 40px;
+    background-color: #282932;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.2s;
+}
+.btn-secondary:hover{
+    background-color: #282932;
+    color: #fff;
+    transition: ease-in-out;
+}
